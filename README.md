@@ -1,4 +1,7 @@
-### Hi there 👋
+:wave:&nbsp;&nbsp;&nbsp;Sou o **Henrique**, esse é meu GitHub e este é meu [GitLab](https://gitlab.com/bsshenrique) \
+:wrench:&nbsp;&nbsp;&nbsp;Atualmente trabalho como DevOps \
+:godmode:&nbsp;&nbsp;Meu maior conhecimnto envolve `JavaScript`, `TypeScript` (`Node.js`) e tecnologias `AWS` \
+:octocat:&nbsp;&nbsp;Compartilho algumas coisas bem legais [aqui](https://gist.github.com/bsshenrique)
 
 <!--
 **bsshenrique/bsshenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
