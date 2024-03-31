@@ -1,7 +1,28 @@
-:wave:&nbsp;&nbsp;&nbsp;Sou o **Henrique**, esse é meu GitHub e este é meu [GitLab](https://gitlab.com/bsshenrique) \
-:wrench:&nbsp;&nbsp;&nbsp;Atualmente trabalho como DevOps \
-:godmode:&nbsp;&nbsp;Meu maior conhecimnto envolve `JavaScript`, `TypeScript` (`Node.js`) e tecnologias `AWS` \
-:octocat:&nbsp;&nbsp;Compartilho algumas coisas bem legais [aqui](https://gist.github.com/bsshenrique)
+```JavaScript
+const developer = {
+  expertise: {
+    cloud: ["AWS", "Cloudflare"],
+    languages: ["JavaScript", "Python", "Shell Script", "TypeScript"],
+    tools: ["Docker", "Kubernetes"],
+  },
+  job: "DevOps Engineer",
+  name: "Henrique",
+};
+```
+
+Oi,  
+Bem vindo(a)!
+
+Confira também os links abaixo.
+
+<div align="center">
+  <a href="https://gist.github.com/bsshenrique">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gist-E5E7EB?style=flat-square&logo=github&logoColor=030712&label=GitHub">
+  </a>
+  <a href="https://gitlab.com/bsshenrique">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-E5E7EB?style=flat-square&logo=gitlab">
+  </a>
+</p>
 
 <!--
 **bsshenrique/bsshenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
