@@ -10,10 +10,10 @@ const developer = {
 };
 ```
 
-Oi,  
-Bem vindo(a)!
+:wave: Bem vindo(a)!
 
-Confira também os links abaixo.
+Confira meus repositórios fixados.  
+Clique também nos shields abaixo para conferir alguns Gists bem legais.
 
 <div align="center">
   <a href="https://gist.github.com/bsshenrique">
