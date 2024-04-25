@@ -19,9 +19,6 @@ Clique também nos shields abaixo para conferir alguns Gists bem legais.
   <a href="https://gist.github.com/bsshenrique">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gist-E5E7EB?style=flat-square&logo=github&logoColor=030712&label=GitHub">
   </a>
-  <a href="https://gitlab.com/bsshenrique">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-E5E7EB?style=flat-square&logo=gitlab">
-  </a>
 </p>
 
 <!--
