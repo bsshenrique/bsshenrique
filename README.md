@@ -13,11 +13,11 @@ const developer = {
 :wave: Bem vindo(a)!
 
 Confira meus repositórios fixados.  
-Clique também nos shields abaixo para conferir alguns Gists bem legais.
+Clique também nos shields abaixo para conferir alguns gists bem legais.
 
 <div align="center">
-  <a href="https://gist.github.com/bsshenrique">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Gist-E5E7EB?style=flat-square&logo=github&logoColor=030712&label=GitHub">
+  <a href="https://gist.github.com/bsshenrique" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gists-E5E7EB?style=flat-square&logo=github&logoColor=030712&label=GitHub">
   </a>
 </p>
 
