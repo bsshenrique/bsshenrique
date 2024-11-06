@@ -13,7 +13,7 @@ const developer = {
 :wave: Bem vindo(a)!
 
 Confira meus repositórios fixados.  
-Clique também nos shields abaixo para conferir alguns gists bem legais.
+Clique nos shields abaixo.
 
 <div align="center">
   <a href="https://gist.github.com/bsshenrique" target="_blank">
