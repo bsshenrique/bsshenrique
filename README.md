@@ -3,7 +3,7 @@ const developer = {
   expertise: {
     cloud: ["AWS", "Cloudflare"],
     languages: ["JavaScript", "Python", "Shell Script", "TypeScript"],
-    tools: ["Docker", "Kubernetes"],
+    tools: ["Docker", "Kubernetes", "Terraform"],
   },
   job: "DevOps Engineer",
   name: "Henrique",
